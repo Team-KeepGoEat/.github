@@ -1,5 +1,6 @@
 # 킵고잇, 계속 먹어도 괜찮아.
-![네이밍공모전](https://user-images.githubusercontent.com/75439868/209751575-e40005e8-cb38-4a9b-9482-4615340ca53f.png)
+![main](https://user-images.githubusercontent.com/75439868/212359071-8a0a6115-4faa-40eb-9aa4-62e5d146cfdc.png)
+
 
 ```
 앞에 맛있는 게 있으면 일단 먹어야지!
@@ -11,3 +12,5 @@
 
 천천히 나아가요.
 ```
+
+![members](https://user-images.githubusercontent.com/75439868/212359988-3a91da5b-f203-44dd-bbc3-0f94c7363ab3.png)
