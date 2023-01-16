@@ -1,5 +1,6 @@
 # 킵고잇, 계속 먹어도 괜찮아.
-![최종](https://user-images.githubusercontent.com/75439868/212670405-a8771552-d07f-48de-a9d1-c09bef237629.png)
+
+![최종](https://user-images.githubusercontent.com/75439868/212671218-684754fd-8ed6-4156-accf-337e4831e8e7.png)
 
 
 
