@@ -13,4 +13,12 @@
 천천히 나아가요.
 ```
 
+![18](https://user-images.githubusercontent.com/75439868/212579977-b83a8bbe-1a41-4487-b123-19ea61eaa0a0.jpg)
+![19](https://user-images.githubusercontent.com/75439868/212579995-9ac3c7ff-d180-4fc2-9d9c-5a487e8310f6.jpg)
+![20](https://user-images.githubusercontent.com/75439868/212580001-09b153f4-f736-4473-bbf0-4c22e18377f3.jpg)
+![21](https://user-images.githubusercontent.com/75439868/212580015-a69c9b8a-c6af-4298-8f48-88dd4b902d68.jpg)
+![22](https://user-images.githubusercontent.com/75439868/212580021-e421c82e-1cb5-4b0f-ab05-92c5a51cbd4b.jpg)
+![23](https://user-images.githubusercontent.com/75439868/212580028-425f7172-8c8b-41fa-96a4-c3431d6ccf9f.jpg)
+
+# 함께 한 사람들
 ![members](https://user-images.githubusercontent.com/75439868/212359988-3a91da5b-f203-44dd-bbc3-0f94c7363ab3.png)
